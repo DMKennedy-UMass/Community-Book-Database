@@ -21,7 +21,7 @@
 #
 # Team Member List :
 # Daniel Kennedy :
-#     Front End Developer :
-#        Issue #1 :
-#        Issue #2 :
-#        Issue #3 :
+#     Role : Assigment Aggregator
+#        Issue #1 : User Profile Page [UI Design]
+#        Issue #2 : User Book List [UI Design]
+#        Issue #3 : Assigment Aggregator  [Team Design]
